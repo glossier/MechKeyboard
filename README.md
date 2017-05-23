@@ -12,8 +12,6 @@ Now design your KB and if you have to map the fn key this is what worked for me:
 
 ![fn key config](https://cl.ly/2E1K2I1P2U0f/Image%202017-05-23%20at%2010.44.25%20AM.png "fn key config")
 
-https://cl.ly/2E1K2I1P2U0f/Image%202017-05-23%20at%2010.44.25%20AM.png
-
 Select the second option from the dropdown and layer 1. Now down generate and download the .bin file when you are done editing the layout
 
 ### Flashing your KB
@@ -31,4 +29,4 @@ cp ~/Documents/FLASH.BIN .
 rm -rf .fseventsd ._FLASH.BIN 
 ```
 
-That's it see @karl.rivest.harnois (slack) @KarlHarnois (gh) for help and support requests.
+That's it!
